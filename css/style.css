@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    color: rgb(37, 37, 37);
+    font-weight: 600;
+}
+.btn-style{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
